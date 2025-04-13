@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Aishwarya Dixit]!
 
-I’m a Business Analyst making the leap into the technical side of data. With a strong background in problem-solving and stakeholder collaboration, I’m currently expanding my skill set to include data engineering and analytics tools.
+I’m a Senior Business Analyst making the leap into the technical side of data. With a strong background in problem-solving and stakeholder collaboration, I’m currently expanding my skill set to include data engineering and analytics tools.
 
 ### 🔍 What I'm Working On
 - Building end-to-end ETL pipelines using Python and SQL
