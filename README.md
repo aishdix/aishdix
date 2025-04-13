@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Aishwarya Dixit]!
+# 👋 Hi there, I'm Aishwarya Dixit!
 
 I’m a Senior Business Analyst making the leap into the technical side of data. With a strong background in problem-solving and stakeholder collaboration, I’m currently expanding my skill set to include data engineering and analytics tools.
 
